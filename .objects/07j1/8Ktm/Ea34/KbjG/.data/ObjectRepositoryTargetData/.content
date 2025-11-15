@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Q73L8oS7kkyHiFyPAIlS4w" Reference="MxNu6IYXQEiXuntZkOyw8A/KbjG4bcskUOr_97WhLJ2HQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dev1.register.runsatara.com/verifyOTP" CVScreenId="be6b3319-b3e9-4f6e-8a94-6e9929ab27af" ContentHash="7Rpvw275xE2vlqn5Z5q8hA" CvTextArea="920, 682, 97, 15" CvTextArgument="Resend OTP" CvType="Text" DesignTimeRectangle="922, 680, 94, 20" DesignTimeScaleFactor="1.25" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;b' tag='B' /&gt;" Guid="2eba5e82-6d5f-46cd-b608-2c0f8d13e821" Reference="MxNu6IYXQEiXuntZkOyw8A/KbjG4bcskUOr_97WhLJ2HQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SHHM' /&gt;" SearchSteps="Selector, CV" Version="V6">
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="3ac42a22781c228ef95692e7b926225a.png" xmlns="">0tYi_YA-9Xki-C7aFkukfSw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

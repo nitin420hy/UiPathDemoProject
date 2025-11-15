@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Enter OTP",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "bvBWNCAL80qBmtxN4uqf_Q",
+  "Reference": "MxNu6IYXQEiXuntZkOyw8A/bvBWNCAL80qBmtxN4uqf_Q",
+  "ParentRef": "MxNu6IYXQEiXuntZkOyw8A/9EjtAma9Ok6H0dAypysL5Q",
+  "Created": "2025-11-04T19:07:15.7974084Z",
+  "Updated": "2025-11-04T19:07:15.7974084Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

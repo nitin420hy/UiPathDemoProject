@@ -1,0 +1,15 @@
+﻿{
+  "Name": "File Explorer PC Screen",
+  "Type": "Screen",
+  "Id": "F10EtSnuvkePFNE8io4zmg",
+  "Reference": "MxNu6IYXQEiXuntZkOyw8A/F10EtSnuvkePFNE8io4zmg",
+  "ParentRef": "MxNu6IYXQEiXuntZkOyw8A/8KtmpoF52Eyamaq7SL8mVA",
+  "Created": "2025-11-04T18:45:34.0161109Z",
+  "Updated": "2025-11-04T18:46:35.2864084Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

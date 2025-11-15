@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qMQ6aNOcI0ijek6_dRgEgg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dev1.register.runsatara.com/register" CVScreenId="cc632348-674b-4214-aa5e-ef7cb9e0295a" CvElementArea="23, 691, 1867, 60" CvType="InputBox" DesignTimeRectangle="29, 694, 1861, 55" DesignTimeScaleFactor="1.25" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' idx='8' parentid='root' tag='DIV' /&gt;" Guid="49c7da44-c374-489b-b9d2-32a1686597f6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SHHM' /&gt;" SearchSteps="Selector, CV" Version="V6">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="cc632348-674b-4214-aa5e-ef7cb9e0295a" CvTextArea="27, 664, 145, 17" CvTextArgument="Mobile Number *" CvType="Text" DesignTimeRectangle="29, 660, 1861, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' class='' tag='STRONG' aaname='Mobile Number' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Mobile Number *' /&gt;" Guid="4ade1f0d-771d-431e-aec1-7e34dadb94d7" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="623894f56390964583d19e2dad42b71c.png" xmlns="">0okNe1gYXz0G1EqOfTo_PdQ</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

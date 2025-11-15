@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Upload Picture",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "uwrttzutokSPMJlfbRruZg",
+  "Reference": "MxNu6IYXQEiXuntZkOyw8A/uwrttzutokSPMJlfbRruZg",
+  "ParentRef": "MxNu6IYXQEiXuntZkOyw8A/9EjtAma9Ok6H0dAypysL5Q",
+  "Created": "2025-11-04T18:37:43.3001831Z",
+  "Updated": "2025-11-04T18:37:43.3001831Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

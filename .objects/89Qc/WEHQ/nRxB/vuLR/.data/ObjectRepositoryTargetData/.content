@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BcILJNbD90SdIY4AZJp-Fw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="1a69ab41-7a60-4f57-8907-0213a3ea5908" CvElementArea="120, 481, 376, 91" CvType="InputBox" DesignTimeRectangle="122, 483, 374, 89" DesignTimeScaleFactor="1.25" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;ctrl role='editable text' automationid='' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' /&gt;" Guid="16bfaae1-34f6-4547-bc52-f54a691854a8" ScopeSelectorArgument="&lt;wnd app='runsatara.exe' cls='HwndWrapper*' title='RunSatara - Sign In' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1a69ab41-7a60-4f57-8907-0213a3ea5908" CvTextArea="45, 458, 119, 15" CvTextArgument="Mobile Number *" CvType="Text" DesignTimeRectangle="47, 457, 449, 20" ElementType="Text" FuzzySelectorArgument="&lt;ctrl name='Mobile Number *' role='text' automationid='' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='Mobile Number *' /&gt;" Guid="3060005b-d073-402e-95cf-d1cc5c216780" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="108d8a6ca806557194f544f61d29e7d7.png" xmlns="">0K-jSfZT3EEWzQmBFiUf6Yw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

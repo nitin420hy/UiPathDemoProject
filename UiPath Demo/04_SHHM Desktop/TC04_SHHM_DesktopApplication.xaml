@@ -1,0 +1,326 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="TestCase" VisualBasic.Settings="{x:Null}" sap2010:WorkflowViewState.IdRef="TestCase_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:sd="clr-namespace:System.Drawing;assembly=System.Drawing.Common" xmlns:sd1="clr-namespace:System.Drawing;assembly=System.Drawing.Primitives" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:uta="clr-namespace:UiPath.Testing.Activities;assembly=UiPath.Testing.Activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>GlobalVariablesNamespace</x:String>
+      <x:String>GlobalConstantsNamespace</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>UiPath.UIAutomationNext.Enums</x:String>
+      <x:String>UiPath.UIAutomationCore.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Models</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities</x:String>
+      <x:String>UiPath.Shared.Activities</x:String>
+      <x:String>UiPath.Platform.ObjectLibrary</x:String>
+      <x:String>UiPath.Platform.SyncObjects</x:String>
+      <x:String>System.Security</x:String>
+      <x:String>UiPath.UIAutomationNext.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Models.CV</x:String>
+      <x:String>System.ComponentModel</x:String>
+      <x:String>System.Reflection</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities.Models</x:String>
+      <x:String>System.Linq.Expressions</x:String>
+      <x:String>UiPath.Testing</x:String>
+      <x:String>UiPath.Testing.Activities</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.TypeConverter</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.Common</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Drawing.Common</AssemblyReference>
+      <AssemblyReference>System.Drawing.Primitives</AssemblyReference>
+      <AssemblyReference>System.Linq</AssemblyReference>
+      <AssemblyReference>System.Net.Mail</AssemblyReference>
+      <AssemblyReference>System.ObjectModel</AssemblyReference>
+      <AssemblyReference>System.Private.CoreLib</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Studio.Constants</AssemblyReference>
+      <AssemblyReference>System.Private.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.Private.DataContractSerialization</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Formatters</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Database.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Testing.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Web.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Platform</AssemblyReference>
+      <AssemblyReference>System.Security.Permissions</AssemblyReference>
+      <AssemblyReference>System.Runtime.InteropServices</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.EventBasedAsync</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>System.ComponentModel</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Primitives</AssemblyReference>
+      <AssemblyReference>System.Reflection.DispatchProxy</AssemblyReference>
+      <AssemblyReference>System.Reflection.TypeExtensions</AssemblyReference>
+      <AssemblyReference>System.Reflection.Metadata</AssemblyReference>
+      <AssemblyReference>UiPath.Workflow</AssemblyReference>
+      <AssemblyReference>System.Memory.Data</AssemblyReference>
+      <AssemblyReference>System.Console</AssemblyReference>
+      <AssemblyReference>System.Configuration.ConfigurationManager</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+      <AssemblyReference>System.Private.Uri</AssemblyReference>
+      <AssemblyReference>System.Collections</AssemblyReference>
+      <AssemblyReference>System.Linq.Async</AssemblyReference>
+      <AssemblyReference>System.Collections.NonGeneric</AssemblyReference>
+      <AssemblyReference>System.Linq.Expressions</AssemblyReference>
+      <AssemblyReference>UiPath.Testing</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities.Design</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="TestCase" sap:VirtualizedContainerService.HintSize="731.6,2248.8" sap2010:WorkflowViewState.IdRef="Sequence_1">
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <Sequence DisplayName="Login in SHHM with Mobile Number" sap:VirtualizedContainerService.HintSize="669.6,2162.4" sap2010:WorkflowViewState.IdRef="Sequence_2">
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+      <uix:NApplicationCard AttachMode="ByInstance" CloseMode="[UiPath.UIAutomationNext.Enums.NAppCloseMode.IfOpenedByAppBrowser]" DisplayName="Open SHHM Desktop Application" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="636,2102.4" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" OpenMode="[UiPath.UIAutomationNext.Enums.NAppOpenMode.Always]" ScopeGuid="e7568818-0631-4de2-ba69-2da938d4216d" Version="V2">
+        <uix:NApplicationCard.Body>
+          <ActivityAction x:TypeArguments="x:Object">
+            <ActivityAction.Argument>
+              <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
+            </ActivityAction.Argument>
+            <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="634.4,1856.8" sap2010:WorkflowViewState.IdRef="Sequence_3">
+              <Sequence.Variables>
+                <Variable x:TypeArguments="x:String" Name="SharedMobileNumber" />
+              </Sequence.Variables>
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+              <Sequence DisplayName="Login With Registered Mobile Number" sap:VirtualizedContainerService.HintSize="600.8,56.8" sap2010:WorkflowViewState.IdRef="Sequence_4">
+                <sap:WorkflowViewStateService.ViewState>
+                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                    <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                    <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                  </scg:Dictionary>
+                </sap:WorkflowViewStateService.ViewState>
+                <ui:GetRobotAsset TimeoutMS="{x:Null}" AssetName="SharedMobileNumber" CacheStrategy="None" DisplayName="Get Asset (Variable) from Orchestrator" FolderPath="Testing" sap:VirtualizedContainerService.HintSize="416,175.2" sap2010:WorkflowViewState.IdRef="GetRobotAsset_2">
+                  <ui:GetRobotAsset.Value>
+                    <OutArgument x:TypeArguments="x:String">[SharedMobileNumber]</OutArgument>
+                  </ui:GetRobotAsset.Value>
+                  <sap:WorkflowViewStateService.ViewState>
+                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                      <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                    </scg:Dictionary>
+                  </sap:WorkflowViewStateService.ViewState>
+                </ui:GetRobotAsset>
+                <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" ClipboardMode="Never" DisplayName="Type Mobile Number" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,245.6" sap2010:WorkflowViewState.IdRef="NTypeInto_1" InteractionMode="HardwareEvents" ScopeIdentifier="e7568818-0631-4de2-ba69-2da938d4216d" Text="[SharedMobileNumber]" Version="V5">
+                  <uix:NTypeInto.Target>
+                    <uix:TargetAnchorable CVScreenId="1a69ab41-7a60-4f57-8907-0213a3ea5908" ContentHash="BcILJNbD90SdIY4AZJp-Fw" CvElementArea="120, 481, 376, 91" CvType="InputBox" DesignTimeRectangle="122, 483, 374, 89" DesignTimeScaleFactor="1.25" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;ctrl role='editable text' automationid='' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' /&gt;" Guid="16bfaae1-34f6-4547-bc52-f54a691854a8" InformativeScreenshot="108d8a6ca806557194f544f61d29e7d7.png" Reference="MxNu6IYXQEiXuntZkOyw8A/vuLRGEgGZ0qSjVwpgQOOiA" ScopeSelectorArgument="&lt;wnd app='runsatara.exe' cls='HwndWrapper*' title='RunSatara - Sign In' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6">
+                      <uix:TargetAnchorable.Anchors>
+                        <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
+                          <uix:Target CVScreenId="1a69ab41-7a60-4f57-8907-0213a3ea5908" CvTextArea="45, 458, 119, 15" CvTextArgument="Mobile Number *" CvType="Text" DesignTimeRectangle="47, 457, 449, 20" ElementType="Text" FuzzySelectorArgument="&lt;ctrl name='Mobile Number *' role='text' automationid='' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='Mobile Number *' /&gt;" Guid="3060005b-d073-402e-95cf-d1cc5c216780" SearchSteps="FuzzySelector, CV" />
+                        </scg:List>
+                      </uix:TargetAnchorable.Anchors>
+                      <uix:TargetAnchorable.PointOffset>
+                        <uix:PointOffset />
+                      </uix:TargetAnchorable.PointOffset>
+                    </uix:TargetAnchorable>
+                  </uix:NTypeInto.Target>
+                  <sap:WorkflowViewStateService.ViewState>
+                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                      <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                    </scg:Dictionary>
+                  </sap:WorkflowViewStateService.ViewState>
+                </uix:NTypeInto>
+                <uix:NMouseScroll KeyModifiers="{x:Null}" Direction="Down" DisplayName="Scroll mouse down on the specified target" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,225.6" sap2010:WorkflowViewState.IdRef="NMouseScroll_1" InteractionMode="HardwareEvents" MovementUnits="5" ScopeIdentifier="e7568818-0631-4de2-ba69-2da938d4216d" Version="V5" />
+                <uix:NClick ActivateBefore="True" ClickType="Single" CursorMotionType="[UiPath.UIAutomationNext.Enums.CursorMotionType.Instant]" DisplayName="Click Request OTP" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,48" sap2010:WorkflowViewState.IdRef="NClick_1" InteractionMode="HardwareEvents" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="e7568818-0631-4de2-ba69-2da938d4216d" Version="V5">
+                  <uix:NClick.Target>
+                    <uix:TargetAnchorable CVScreenId="447273e1-58b0-45fc-b47e-bed63d4e7336" ContentHash="2bzDE2UXHUCSI6gtRylc8w" CvElementArea="45, 508, 452, 59" CvTextArea="211, 530, 118, 22" CvTextArgument="Request OTP" CvType="Button" DesignTimeRectangle="47, 511, 449, 56" DesignTimeScaleFactor="1.25" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;ctrl name='Request OTP' role='push button' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='Request OTP' /&gt;" Guid="a0bf3735-127f-4d73-820a-326aaaf262c5" InformativeScreenshot="ff1d7adbf7b52026ec87877c50769dea.png" Reference="MxNu6IYXQEiXuntZkOyw8A/6qYGD7oATUqTYy4R5Mx9SA" ScopeSelectorArgument="&lt;wnd app='runsatara.exe' cls='HwndWrapper*' title='RunSatara - Sign In' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6">
+                      <uix:TargetAnchorable.Anchors>
+                        <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
+                          <uix:Target CVScreenId="447273e1-58b0-45fc-b47e-bed63d4e7336" CvElementArea="45, 508, 452, 59" CvTextArea="211, 530, 118, 22" CvTextArgument="Request OTP" CvType="Button" DesignTimeRectangle="213, 526, 116, 26" ElementType="Text" FuzzySelectorArgument="&lt;ctrl name='Request OTP' role='push button' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='Request OTP' role='text' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='Request OTP' /&gt;" Guid="209c454b-13d1-410e-8d13-c4949a749bb4" SearchSteps="FuzzySelector, CV" />
+                        </scg:List>
+                      </uix:TargetAnchorable.Anchors>
+                      <uix:TargetAnchorable.PointOffset>
+                        <uix:PointOffset />
+                      </uix:TargetAnchorable.PointOffset>
+                    </uix:TargetAnchorable>
+                  </uix:NClick.Target>
+                  <sap:WorkflowViewStateService.ViewState>
+                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                      <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                      <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                    </scg:Dictionary>
+                  </sap:WorkflowViewStateService.ViewState>
+                </uix:NClick>
+              </Sequence>
+              <Sequence DisplayName="Verify OTP Sent on Mobile Number" sap:VirtualizedContainerService.HintSize="600.8,1740" sap2010:WorkflowViewState.IdRef="Sequence_5">
+                <sap:WorkflowViewStateService.ViewState>
+                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                    <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                    <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                  </scg:Dictionary>
+                </sap:WorkflowViewStateService.ViewState>
+                <uix:NMouseScroll KeyModifiers="{x:Null}" Direction="Down" DisplayName="Mouse Scroll 'Verification code sent!'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="567.2,297.6" sap2010:WorkflowViewState.IdRef="NMouseScroll_3" InteractionMode="HardwareEvents" MovementUnits="25" ScopeIdentifier="e7568818-0631-4de2-ba69-2da938d4216d" Version="V5">
+                  <uix:NMouseScroll.Target>
+                    <uix:TargetAnchorable CVScreenId="9c85972b-7851-483f-96a8-1bc4dd76ddd8" ContentHash="filWaGAN_02xW166O7KBHA" CvTextArea="136, 305, 265, 22" CvTextArgument="Verification code sent!" CvType="Text" DesignTimeRectangle="140, 299, 262, 33" DesignTimeScaleFactor="1.25" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='Verification code sent!' role='text' /&gt;" Guid="6865da9f-e6e0-406c-a913-4abefe2dbf82" InformativeScreenshot="e9dda0737229b276309fa07a5d8eefbf.png" Reference="MxNu6IYXQEiXuntZkOyw8A/nqntBM4u8UGDa9Ux4yWSNw" ScopeSelectorArgument="&lt;wnd app='runsatara.exe' cls='HwndWrapper*' title='RunSatara - Verify OTP' /&gt;" SearchSteps="Selector, CV" Version="V6">
+                      <uix:TargetAnchorable.PointOffset>
+                        <uix:PointOffset />
+                      </uix:TargetAnchorable.PointOffset>
+                    </uix:TargetAnchorable>
+                  </uix:NMouseScroll.Target>
+                </uix:NMouseScroll>
+                <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" ClipboardMode="Never" DisplayName="Type OTP" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="567.2,245.6" sap2010:WorkflowViewState.IdRef="NTypeInto_2" ScopeIdentifier="e7568818-0631-4de2-ba69-2da938d4216d" Text="123456" Version="V5">
+                  <uix:NTypeInto.Target>
+                    <uix:TargetAnchorable CVScreenId="696bd668-60fe-4bf9-8e58-fb2ada6ee531" ContentHash="4mJN-zAOw0ifJp_i1BYtKw" CvElementArea="45, 372, 449, 77" CvType="InputBox" DesignTimeRectangle="47, 375, 449, 75" DesignTimeScaleFactor="1.25" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;ctrl role='editable text' automationid='' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' /&gt;" Guid="2f0bc297-16a2-4fd8-8e63-3daab5f4c5d5" InformativeScreenshot="b813031c261e427f47b03b69c3551866.png" Reference="MxNu6IYXQEiXuntZkOyw8A/TLUp_t6yJU6Taqsy8k30Rg" ScopeSelectorArgument="&lt;wnd app='runsatara.exe' cls='HwndWrapper*' title='RunSatara - Verify OTP' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6">
+                      <uix:TargetAnchorable.Anchors>
+                        <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
+                          <uix:Target CVScreenId="696bd668-60fe-4bf9-8e58-fb2ada6ee531" CvTextArea="230, 351, 79, 15" CvTextArgument="Enter OTP *" CvType="Text" DesignTimeRectangle="232, 349, 78, 20" ElementType="Text" FuzzySelectorArgument="&lt;ctrl name='Enter OTP *' role='text' automationid='' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='Enter OTP *' /&gt;" Guid="8f8fda0a-9346-470e-9615-3e64e4661c46" SearchSteps="FuzzySelector, CV" />
+                        </scg:List>
+                      </uix:TargetAnchorable.Anchors>
+                      <uix:TargetAnchorable.PointOffset>
+                        <uix:PointOffset />
+                      </uix:TargetAnchorable.PointOffset>
+                    </uix:TargetAnchorable>
+                  </uix:NTypeInto.Target>
+                </uix:NTypeInto>
+                <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click the 'Verify OTP' button" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="567.2,193.6" sap2010:WorkflowViewState.IdRef="NClick_2" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="e7568818-0631-4de2-ba69-2da938d4216d" Version="V5">
+                  <uix:NClick.Target>
+                    <uix:TargetAnchorable CVScreenId="8f4a40f8-ad55-4531-8851-061041d8f409" ContentHash="-BDuonTVWk6pojsea43aiw" CvElementArea="44, 423, 452, 60" CvTextArea="220, 443, 99, 25" CvTextArgument="Verify OTP" CvType="Button" DesignTimeRectangle="47, 426, 449, 57" DesignTimeScaleFactor="1.25" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;ctrl name='Verify OTP' role='push button' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='Verify OTP' /&gt;" Guid="983fe966-590d-4983-9e6d-ea4a7ceac1be" InformativeScreenshot="7273e5a67aba5b13ff4a1075d7d79a17.png" Reference="MxNu6IYXQEiXuntZkOyw8A/VM8QkUt6jkaP8d3BCE-5ZQ" ScopeSelectorArgument="&lt;wnd app='runsatara.exe' cls='HwndWrapper*' title='RunSatara - Verify OTP' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6">
+                      <uix:TargetAnchorable.Anchors>
+                        <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
+                          <uix:Target CVScreenId="8f4a40f8-ad55-4531-8851-061041d8f409" CvElementArea="44, 423, 452, 60" CvTextArea="220, 443, 99, 25" CvTextArgument="Verify OTP" CvType="Button" DesignTimeRectangle="224, 441, 94, 27" ElementType="Text" FuzzySelectorArgument="&lt;ctrl name='Verify OTP' role='push button' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='Verify OTP' role='text' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='Verify OTP' /&gt;" Guid="b9de5ad2-02af-43ad-b2f8-7261bd8ca9f1" SearchSteps="FuzzySelector, CV" />
+                        </scg:List>
+                      </uix:TargetAnchorable.Anchors>
+                      <uix:TargetAnchorable.PointOffset>
+                        <uix:PointOffset />
+                      </uix:TargetAnchorable.PointOffset>
+                    </uix:TargetAnchorable>
+                  </uix:NClick.Target>
+                </uix:NClick>
+                <Sequence DisplayName="Verify Login Successful" sap:VirtualizedContainerService.HintSize="567.2,348" sap2010:WorkflowViewState.IdRef="Sequence_6">
+                  <Sequence.Variables>
+                    <Variable x:TypeArguments="ui:UiElement" Name="VisibleInnerText" />
+                    <Variable x:TypeArguments="x:String" Name="ButtonText" />
+                  </Sequence.Variables>
+                  <sap:WorkflowViewStateService.ViewState>
+                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                    </scg:Dictionary>
+                  </sap:WorkflowViewStateService.ViewState>
+                  <uix:NGetText DisplayName="Get Text 'Logout'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,142.4" sap2010:WorkflowViewState.IdRef="NGetText_2" ScopeIdentifier="e7568818-0631-4de2-ba69-2da938d4216d" TextString="[ButtonText]" Version="V5">
+                    <uix:NGetText.Target>
+                      <uix:TargetAnchorable CVScreenId="22fbec82-5299-48e9-b7ed-8784bcacf1ab" ContentHash="HvwwJAlFvUKSkDjbc3M3kg" CvElementArea="856, 60, 111, 66" CvTextArea="881, 85, 60, 21" CvTextArgument="Logout" CvType="Button" DesignTimeRectangle="884, 82, 57, 23" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='Logout' role='push button' /&gt;&lt;ctrl name='Logout' role='text' /&gt;" Guid="244f9649-c1bf-4a79-8712-6d7ad26b7cf0" InformativeScreenshot="112fb6765ff94f03e80b7f64ab1f670d.png" Reference="MxNu6IYXQEiXuntZkOyw8A/qaXTbDkMdkGhs0TMX59r7g" ScopeSelectorArgument="&lt;wnd app='runsatara.exe' cls='HwndWrapper*' title='UserListWindow' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+                        <uix:TargetAnchorable.PointOffset>
+                          <uix:PointOffset />
+                        </uix:TargetAnchorable.PointOffset>
+                      </uix:TargetAnchorable>
+                    </uix:NGetText.Target>
+                  </uix:NGetText>
+                  <uta:VerifyExpression AlternativeVerificationTitle="{x:Null}" KeepScreenshots="{x:Null}" OutputMessageFormat="{x:Null}" Result="{x:Null}" ScreenshotsPath="{x:Null}" ContinueOnFailure="True" DisplayName="Verify Logout Button Present" Expression="[ButtonText=&quot;Logout&quot;]" sap:VirtualizedContainerService.HintSize="416,113.6" sap2010:WorkflowViewState.IdRef="VerifyExpression_1" TakeScreenshotInCaseOfFailingAssertion="False" TakeScreenshotInCaseOfSucceedingAssertion="False" />
+                </Sequence>
+                <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Logout'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="567.2,193.6" sap2010:WorkflowViewState.IdRef="NClick_3" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="e7568818-0631-4de2-ba69-2da938d4216d" Version="V5">
+                  <uix:NClick.Target>
+                    <uix:TargetAnchorable CVScreenId="f231d6e3-7f30-4146-b21c-49dac3ce8628" ContentHash="qEtXHX_Bz0uW62sLOAEEuQ" CvElementArea="856, 60, 111, 66" CvTextArea="881, 85, 60, 21" CvTextArgument="Logout" CvType="Button" DesignTimeRectangle="859, 63, 107, 62" DesignTimeScaleFactor="1.25" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;ctrl name='Logout' role='push button' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='Logout' /&gt;" Guid="2290b48c-0174-417d-a3b8-450dc0168c7d" InformativeScreenshot="b659738906b6991f048b409d77cbd4d8.png" Reference="MxNu6IYXQEiXuntZkOyw8A/qaXTbDkMdkGhs0TMX59r7g" ScopeSelectorArgument="&lt;wnd app='runsatara.exe' cls='HwndWrapper*' title='UserListWindow' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6">
+                      <uix:TargetAnchorable.Anchors>
+                        <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
+                          <uix:Target CVScreenId="f231d6e3-7f30-4146-b21c-49dac3ce8628" CvElementArea="856, 60, 111, 66" CvTextArea="881, 85, 60, 21" CvTextArgument="Logout" CvType="Button" DesignTimeRectangle="884, 82, 57, 23" ElementType="Text" FuzzySelectorArgument="&lt;ctrl name='Logout' role='push button' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='Logout' role='text' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='Logout' /&gt;" Guid="03265117-44b6-4a34-b0f0-8b75b6464a8e" SearchSteps="FuzzySelector, CV" />
+                        </scg:List>
+                      </uix:TargetAnchorable.Anchors>
+                      <uix:TargetAnchorable.PointOffset>
+                        <uix:PointOffset />
+                      </uix:TargetAnchorable.PointOffset>
+                    </uix:TargetAnchorable>
+                  </uix:NClick.Target>
+                </uix:NClick>
+                <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Yes'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="567.2,193.6" sap2010:WorkflowViewState.IdRef="NClick_4" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="e7568818-0631-4de2-ba69-2da938d4216d" Version="V5">
+                  <uix:NClick.Target>
+                    <uix:TargetAnchorable CVScreenId="4655fb1e-e632-4d22-9773-4ecf355a7dec" ContentHash="SSY5mLJomk2Kh88XWfTqFg" CvElementArea="102, 157, 102, 34" CvTextArea="140, 167, 21, 12" CvTextArgument="Yes" CvType="Button" DesignTimeRectangle="103, 159, 100, 33" DesignTimeScaleFactor="1.25" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlid='6' title='&amp;amp;Yes' /&gt;" Guid="53aa2b29-8dd9-4ae0-93a8-0f2c86480127" InformativeScreenshot="81f31c5209168b59ab92828ab030e36a.png" Reference="MxNu6IYXQEiXuntZkOyw8A/Gptt_e-oukCqJhCM9eBBFg" ScopeSelectorArgument="&lt;wnd app='runsatara.exe' cls='#32770' title='Confirm Logout' /&gt;" SearchSteps="Selector, CV" Version="V6">
+                      <uix:TargetAnchorable.Anchors>
+                        <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
+                          <uix:Target CVScreenId="4655fb1e-e632-4d22-9773-4ecf355a7dec" CvElementArea="212, 157, 101, 34" CvTextArea="253, 167, 18, 12" CvTextArgument="No" CvType="Button" DesignTimeRectangle="213, 159, 100, 33" ElementType="Button" FuzzySelectorArgument="&lt;wnd ctrlid='7' title='&amp;amp;No' matching:ctrlid='fuzzy' fuzzylevel:ctrlid='0.0' matching:title='fuzzy' fuzzylevel:title='0.0' check:text='&amp;amp;No' /&gt;" Guid="4d0ea021-880d-41f3-a785-6395f7d67e27" SearchSteps="FuzzySelector, CV" />
+                        </scg:List>
+                      </uix:TargetAnchorable.Anchors>
+                      <uix:TargetAnchorable.PointOffset>
+                        <uix:PointOffset />
+                      </uix:TargetAnchorable.PointOffset>
+                    </uix:TargetAnchorable>
+                  </uix:NClick.Target>
+                </uix:NClick>
+                <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Close'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="567.2,184.8" sap2010:WorkflowViewState.IdRef="NClick_5" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="e7568818-0631-4de2-ba69-2da938d4216d" Version="V5">
+                  <uix:NClick.Target>
+                    <uix:TargetAnchorable CVScreenId="e9b2691b-7f80-4cdc-89f5-aca995264711" ContentHash="eVpxKC2mZk2o1JQYTqOsbg" CvElementArea="519, 6, 24, 23" CvType="CloseButton" DesignTimeRectangle="511, 1, 44, 37" DesignTimeScaleFactor="1.25" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='Close' role='push button' /&gt;" Guid="5f642f5c-c38f-4706-b91c-363af252528a" InformativeScreenshot="0dc1093016ac5ccc8163965b3bf9f1b4.png" Reference="MxNu6IYXQEiXuntZkOyw8A/6Z1Qf0BxjkaWJlO3v9Nk1w" ScopeSelectorArgument="&lt;wnd app='runsatara.exe' cls='HwndWrapper*' title='RunSatara - Sign In' /&gt;" SearchSteps="Selector, CV" Version="V6">
+                      <uix:TargetAnchorable.PointOffset>
+                        <uix:PointOffset />
+                      </uix:TargetAnchorable.PointOffset>
+                    </uix:TargetAnchorable>
+                  </uix:NClick.Target>
+                </uix:NClick>
+              </Sequence>
+            </Sequence>
+          </ActivityAction>
+        </uix:NApplicationCard.Body>
+        <uix:NApplicationCard.OCREngine>
+          <ActivityFunc x:TypeArguments="sd:Image, scg:IEnumerable(scg:KeyValuePair(sd1:Rectangle, x:String))">
+            <ActivityFunc.Argument>
+              <DelegateInArgument x:TypeArguments="sd:Image" Name="Image" />
+            </ActivityFunc.Argument>
+          </ActivityFunc>
+        </uix:NApplicationCard.OCREngine>
+        <uix:NApplicationCard.TargetApp>
+          <uix:TargetApp Area="679, 135, 563, 750" ContentHash="QSKN2k1PikOC090n6ogIHw" FilePath="C:\Users\suman\Downloads\RunSatara-Desktop app\RunSatara-Desktop app\net10.0-windows\runsatara.exe" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAK0SURBVFhH7dhbTxNBFMDxPtntZXv/ksqlaitrK9AiIl7QWk36AfoRjI8KvVEtUqogIpTis8SE974cM2dntrM7k1m7JlqTneQfAZPTX87hRQMB//nPf+pXXMqXDCN/VTDyMGsRW8D5w39Rp9OR/kkWNxNAVQgcj8czmQ/806TAer0OtVrNinzP//1m9ydkXn2HzMsLLF29gPSLEZaqnEPq+ZB2BqlnZ5DcOoXU1ikkn36DjdaPqT5LCnQLQdURZKojSFfOIV1hoCGCMASZqOQT0gkkH59A4tFXYZ4qb0BE0U0haIggC8WBGArbPIbEw2Nhniop0G3tFuy3UV8gTto4gviDo6k+Swp0yzzdBJVAFAdiUVSCwuLrhxC7/1mYp8obkNtUElGTTZETsk2RYhSFrX3CnPNUSYFua7dtip3OQh1am7JQ5QGmk0qDqT5LCnRLQK2TKMiJKg0gVjoAffUA9JU+6Kt9YZ4qT0D2+2Sh6OkYTGcgrI+w6PI+6Mv7EL33UZinSgp0W7sNRTcVKw1sIEStmCBSpLgH0eIeRAo9AaFKCnSLnY6AzPMxkLkpHoUVehC524OI8QHCxnthnipPQH5LOrelaJHkRPUQFV4idSF8pyvMUyUFup2Y35J1voJ9UxEHKpzfxUK5XQGhSgp0i2zKeTp2PkQREEWFENWB0G1SG0K32sI8VZ6AiGIw3JIdFc4xVNtKu9kyy7aEeaqkQLcTm6ejqDy3KW5LJB6lZZugLTYguLAjIFRJgW5Nfp/sp9MsVJOCJihsfhuCc9vCPFWegFIUAWWbEFxsSFHXbrwzu/5WmKfKG5BH0S1ZqPkdBGEcis85T5Un4NqbEW4quNAAzYmak6NY5ddDYZ4qT8C/2f8BNIzc1eWl/V9bsxAxMWCZfDFrkcURm/M/u/znP/853i9gJfOfVIkqhAAAAABJRU5ErkJggg==" InformativeScreenshot="4a85d4bb5092cc11b3342baba05eda8b.png" Reference="MxNu6IYXQEiXuntZkOyw8A/nRxBUtijekyThdR9IGbY0Q" Selector="&lt;wnd app='runsatara.exe' cls='HwndWrapper*' title='RunSatara - Sign In' /&gt;" Version="V2">
+            <uix:TargetApp.Arguments>
+              <InArgument x:TypeArguments="x:String" />
+            </uix:TargetApp.Arguments>
+            <uix:TargetApp.WorkingDirectory>
+              <InArgument x:TypeArguments="x:String" />
+            </uix:TargetApp.WorkingDirectory>
+          </uix:TargetApp>
+        </uix:NApplicationCard.TargetApp>
+        <sap:WorkflowViewStateService.ViewState>
+          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+            <x:Boolean x:Key="IsPinned">False</x:Boolean>
+          </scg:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+      </uix:NApplicationCard>
+    </Sequence>
+  </Sequence>
+</Activity>

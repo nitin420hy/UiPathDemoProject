@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4mJN-zAOw0ifJp_i1BYtKw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="696bd668-60fe-4bf9-8e58-fb2ada6ee531" CvElementArea="45, 372, 449, 77" CvType="InputBox" DesignTimeRectangle="47, 375, 449, 75" DesignTimeScaleFactor="1.25" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;ctrl role='editable text' automationid='' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' /&gt;" Guid="2f0bc297-16a2-4fd8-8e63-3daab5f4c5d5" ScopeSelectorArgument="&lt;wnd app='runsatara.exe' cls='HwndWrapper*' title='RunSatara - Verify OTP' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="696bd668-60fe-4bf9-8e58-fb2ada6ee531" CvTextArea="230, 351, 79, 15" CvTextArgument="Enter OTP *" CvType="Text" DesignTimeRectangle="232, 349, 78, 20" ElementType="Text" FuzzySelectorArgument="&lt;ctrl name='Enter OTP *' role='text' automationid='' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='Enter OTP *' /&gt;" Guid="8f8fda0a-9346-470e-9615-3e64e4661c46" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="b813031c261e427f47b03b69c3551866.png" xmlns="">0Elg2VfEEhEWpY0fi2QajFw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

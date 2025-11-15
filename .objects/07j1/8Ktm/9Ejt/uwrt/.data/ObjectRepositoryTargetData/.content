@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="J9SeltTRBUO4HtceKupbOQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dev1.register.runsatara.com/register2" CVScreenId="e66b559c-3be6-4a0d-b536-471d4cef5696" CvElementArea="137, 401, 124, 36" CvTextArea="152, 411, 94, 17" CvTextArgument="Upload Picture" CvType="Button" DesignTimeRectangle="140, 403, 120, 32" DesignTimeScaleFactor="1.25" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='' class='' aaname='Upload Picture' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Upload Picture' /&gt;" Guid="d0051a49-8eb2-4c4a-a643-ef9b61d254dc" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SHHM' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e66b559c-3be6-4a0d-b536-471d4cef5696" CvElementArea="137, 401, 124, 36" CvTextArea="152, 411, 94, 17" CvTextArgument="Upload Picture" CvType="Button" DesignTimeRectangle="155, 411, 90, 17" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Upload Picture' tag='SPAN' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Upload Picture' /&gt;" Guid="b023a1c5-ed2a-42cb-81de-5507f2b8b584" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="41197a55f49abf00ae36a501301ec0de.png" xmlns="">0NM1AI4wMFkSQ8ebV8QfH_g</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Yes",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "Gptt_e-oukCqJhCM9eBBFg",
+  "Reference": "MxNu6IYXQEiXuntZkOyw8A/Gptt_e-oukCqJhCM9eBBFg",
+  "ParentRef": "MxNu6IYXQEiXuntZkOyw8A/xOnK75IUI0mbyGExnItyTA",
+  "Created": "2025-11-14T16:34:13.4932019Z",
+  "Updated": "2025-11-14T16:34:37.2987437Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

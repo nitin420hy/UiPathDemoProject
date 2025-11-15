@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Verify OTP",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "VM8QkUt6jkaP8d3BCE-5ZQ",
+  "Reference": "MxNu6IYXQEiXuntZkOyw8A/VM8QkUt6jkaP8d3BCE-5ZQ",
+  "ParentRef": "MxNu6IYXQEiXuntZkOyw8A/eu48NxYr3k-PLb2nyiMshw",
+  "Created": "2025-11-14T12:41:42.3188648Z",
+  "Updated": "2025-11-14T12:41:42.3188648Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

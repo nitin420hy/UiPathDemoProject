@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Your Date of Birth",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "2UFYZUHMhkiLMLhcXfacXw",
+  "Reference": "MxNu6IYXQEiXuntZkOyw8A/2UFYZUHMhkiLMLhcXfacXw",
+  "ParentRef": "MxNu6IYXQEiXuntZkOyw8A/IctpAhMMH0y7_m1Akobm3Q",
+  "Created": "2025-11-04T17:59:23.7596102Z",
+  "Updated": "2025-11-04T18:26:24.5572636Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

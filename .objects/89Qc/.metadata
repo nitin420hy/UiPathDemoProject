@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Open SHHM Desktop Application",
+  "Type": "App",
+  "Id": "89Qcw2M3rUyETizEzODZQg",
+  "Reference": "MxNu6IYXQEiXuntZkOyw8A/89Qcw2M3rUyETizEzODZQg",
+  "Created": "2025-11-14T12:36:01.673403Z",
+  "Updated": "2025-11-14T12:36:01.673403Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

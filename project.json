@@ -1,0 +1,84 @@
+{
+  "name": "UiPath Demo",
+  "projectId": "97966da6-b20a-4482-b191-fa2b87d592a4",
+  "description": "Test Automation Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.Database.Activities": "[2.0.0]",
+    "UiPath.System.Activities": "[25.10.2]",
+    "UiPath.Testing.Activities": "[25.10.0]",
+    "UiPath.UIAutomation.Activities": "25.10.19",
+    "UiPath.WebAPI.Activities": "[2.3.2]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "25.10.1.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "NewtonsoftJson",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": [
+        "RegisterUserTestCase.xaml"
+      ]
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "97f9c982-e1a6-42f0-ae5e-2523b15822f5",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "UiPath Demo\\01_SHHM Web\\TC01_Register New User.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "4f8828a9-7bb9-40cb-8361-add586749226",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "UiPath Demo\\02_SHHM API\\TC02_UpdateUserName.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "e4326a58-3564-4703-81e1-371ed6bc85cb",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "UiPath Demo\\03_SHHM Database\\TC03_DataBase.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "c9d53e4c-992c-4bb0-a1ac-e0e38fc06c73",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "UiPath Demo\\04_SHHM Desktop\\TC04_SHHM_DesktopApplication.xaml"
+      }
+    ],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}

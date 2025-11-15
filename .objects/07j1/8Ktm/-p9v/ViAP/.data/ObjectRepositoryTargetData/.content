@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="SbHuwuJ0jUufuoogR2UHKg" Reference="MxNu6IYXQEiXuntZkOyw8A/ViAPaY8Awk-nZITKgeprwg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="8c7a7b1b-a926-41c8-89b6-3a85faf4aac6" CvElementArea="18, 542, 1895, 60" CvType="InputBox" DesignTimeRectangle="96, 560, 1792, 22" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' type='tel' /&gt;" Guid="a5fe7b90-6d63-479b-a24a-75fdb7479238" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SHHM' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="dd81a353e615b058bf9cd0e9ce629f04.png" xmlns="">0IyZkf2I3q0SOrxlmPJdY1A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "User Dashboard",
+  "Type": "Screen",
+  "Id": "QTUqIY0osECm7viEbxgruA",
+  "Reference": "MxNu6IYXQEiXuntZkOyw8A/QTUqIY0osECm7viEbxgruA",
+  "ParentRef": "MxNu6IYXQEiXuntZkOyw8A/WEHQ1Bd1VUGGVd0O0Zs-ww",
+  "Created": "2025-11-14T13:20:01.9003675Z",
+  "Updated": "2025-11-14T13:20:01.9003675Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

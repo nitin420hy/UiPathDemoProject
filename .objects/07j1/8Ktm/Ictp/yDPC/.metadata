@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click on Get Started Button",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "yDPCraaho0i8uglnCvQDzQ",
+  "Reference": "MxNu6IYXQEiXuntZkOyw8A/yDPCraaho0i8uglnCvQDzQ",
+  "ParentRef": "MxNu6IYXQEiXuntZkOyw8A/IctpAhMMH0y7_m1Akobm3Q",
+  "Created": "2025-11-13T20:46:58.3367953Z",
+  "Updated": "2025-11-13T20:46:58.3367953Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

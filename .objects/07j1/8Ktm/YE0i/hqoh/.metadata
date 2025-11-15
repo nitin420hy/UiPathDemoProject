@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Your Aadhaar Card is verified.",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "hqoh6qBYSUed2zs1zuIZwA",
+  "Reference": "MxNu6IYXQEiXuntZkOyw8A/hqoh6qBYSUed2zs1zuIZwA",
+  "ParentRef": "MxNu6IYXQEiXuntZkOyw8A/YE0i4sLogkSiBFwoFtwn6w",
+  "Created": "2025-11-04T19:18:32.6605347Z",
+  "Updated": "2025-11-04T19:20:41.3041206Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

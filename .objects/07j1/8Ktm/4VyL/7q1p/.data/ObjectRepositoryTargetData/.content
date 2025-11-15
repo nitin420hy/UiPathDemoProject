@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8H0DeO0WIUmfNVjuGHCz7Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dev1.register.runsatara.com/success" CVScreenId="cd842e06-14ff-4cee-81c4-75dc03ad79ee" CvElementArea="32, 952, 1840, 58" CvTextArea="845, 974, 170, 21" CvTextArgument="Complete my profile" CvType="Button" DesignTimeRectangle="29, 954, 1840, 55" DesignTimeScaleFactor="1.25" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='' class='RegistrationSuccess_label__bAjay' aaname='Complete my profile' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Complete my profile' /&gt;" Guid="38ae5f8c-74a1-4d23-b3df-108f42c0c0f4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SHHM' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="cd842e06-14ff-4cee-81c4-75dc03ad79ee" CvElementArea="32, 952, 1840, 58" CvTextArea="845, 974, 170, 21" CvTextArgument="Complete my profile" CvType="Button" DesignTimeRectangle="848, 972, 166, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='SPAN' type='' class='' aaname='Complete my profile' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Complete my profile' /&gt;" Guid="6b1d3cc9-e2de-4219-83f5-4b70df38b109" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="7c71b55e66c9425215a3c261de53d377.png" xmlns="">0iQAcCnDsUUOWlvPm8GhAQQ</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

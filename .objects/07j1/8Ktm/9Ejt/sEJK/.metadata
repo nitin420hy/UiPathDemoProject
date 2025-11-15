@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Aadhaar Last Four Digit",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "sEJK7lqkREqsyXSJwfAo9w",
+  "Reference": "MxNu6IYXQEiXuntZkOyw8A/sEJK7lqkREqsyXSJwfAo9w",
+  "ParentRef": "MxNu6IYXQEiXuntZkOyw8A/9EjtAma9Ok6H0dAypysL5Q",
+  "Created": "2025-11-04T18:56:58.6896591Z",
+  "Updated": "2025-11-04T18:57:21.8497108Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

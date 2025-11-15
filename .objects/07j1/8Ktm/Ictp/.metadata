@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Register Screen 1",
+  "Type": "Screen",
+  "Id": "IctpAhMMH0y7_m1Akobm3Q",
+  "Reference": "MxNu6IYXQEiXuntZkOyw8A/IctpAhMMH0y7_m1Akobm3Q",
+  "ParentRef": "MxNu6IYXQEiXuntZkOyw8A/8KtmpoF52Eyamaq7SL8mVA",
+  "Created": "2025-11-04T17:50:24.1248296Z",
+  "Updated": "2025-11-04T19:27:32.2624357Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

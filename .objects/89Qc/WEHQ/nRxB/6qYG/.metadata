@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Request OTP",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "6qYGD7oATUqTYy4R5Mx9SA",
+  "Reference": "MxNu6IYXQEiXuntZkOyw8A/6qYGD7oATUqTYy4R5Mx9SA",
+  "ParentRef": "MxNu6IYXQEiXuntZkOyw8A/nRxBUtijekyThdR9IGbY0Q",
+  "Created": "2025-11-14T12:37:37.0815559Z",
+  "Updated": "2025-11-14T12:37:37.0815559Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

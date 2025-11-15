@@ -1,0 +1,15 @@
+﻿{
+  "Name": "SHHM Landing Screen",
+  "Type": "Screen",
+  "Id": "Fu6lU9rqZ0iS2NPQGpwgEg",
+  "Reference": "MxNu6IYXQEiXuntZkOyw8A/Fu6lU9rqZ0iS2NPQGpwgEg",
+  "ParentRef": "MxNu6IYXQEiXuntZkOyw8A/8KtmpoF52Eyamaq7SL8mVA",
+  "Created": "2025-11-04T17:11:35.1368595Z",
+  "Updated": "2025-11-04T17:32:44.8352853Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

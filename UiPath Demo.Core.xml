@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UiPath Demo.Core</name>
+    </assembly>
+    <members>
+        <member name="M:UiPathDemo.WorkflowRunnerService.CoverageMergeHelperWorkflow(System.String,System.Int64,System.Boolean)">
+            <summary>
+            Invokes the CoverageMergeHelperWorkflow.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:UiPathDemo.WorkflowRunnerService.CoverageMergeHelperWorkflow(System.String,System.Int64)">
+            <summary>
+            Invokes the CoverageMergeHelperWorkflow.xaml
+            </summary>
+        </member>
+        <member name="M:UiPathDemo.WorkflowRunnerService.PerformanceTestingBootloaderWorkflow(System.String,System.String,System.Collections.Generic.Dictionary{System.String,System.Object},System.Boolean)">
+            <summary>
+            Invokes the PerformanceTestingBootloaderWorkflow.cs
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:UiPathDemo.WorkflowRunnerService.PerformanceTestingBootloaderWorkflow(System.String,System.String,System.Collections.Generic.Dictionary{System.String,System.Object})">
+            <summary>
+            Invokes the PerformanceTestingBootloaderWorkflow.cs
+            </summary>
+        </member>
+        <member name="M:UiPathDemo.WorkflowRunnerService.TC01_Register_New_User(System.Boolean)">
+            <summary>
+            Invokes the UiPath Demo/01_SHHM Web/TC01_Register New User.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:UiPathDemo.WorkflowRunnerService.TC01_Register_New_User">
+            <summary>
+            Invokes the UiPath Demo/01_SHHM Web/TC01_Register New User.xaml
+            </summary>
+        </member>
+        <member name="M:UiPathDemo.WorkflowRunnerService.TC02_UpdateUserName(System.Boolean)">
+            <summary>
+            Invokes the UiPath Demo/02_SHHM API/TC02_UpdateUserName.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:UiPathDemo.WorkflowRunnerService.TC02_UpdateUserName">
+            <summary>
+            Invokes the UiPath Demo/02_SHHM API/TC02_UpdateUserName.xaml
+            </summary>
+        </member>
+        <member name="M:UiPathDemo.WorkflowRunnerService.TC03_DataBase(System.Boolean)">
+            <summary>
+            Invokes the UiPath Demo/03_SHHM Database/TC03_DataBase.xaml
+            </summary>
+            <param name="isolated">Indicates whether to isolate executions (run them within a different process)</param>
+        </member>
+        <member name="M:UiPathDemo.WorkflowRunnerService.TC03_DataBase">
+            <summary>
+            Invokes the UiPath Demo/03_SHHM Database/TC03_DataBase.xaml
+            </summary>
+        </member>
+    </members>
+</doc>

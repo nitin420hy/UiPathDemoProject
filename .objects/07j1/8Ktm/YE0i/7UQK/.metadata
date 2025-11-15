@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Save & Continue",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "7UQKbm240U-90V0UFPYsVw",
+  "Reference": "MxNu6IYXQEiXuntZkOyw8A/7UQKbm240U-90V0UFPYsVw",
+  "ParentRef": "MxNu6IYXQEiXuntZkOyw8A/YE0i4sLogkSiBFwoFtwn6w",
+  "Created": "2025-11-04T19:18:32.6000664Z",
+  "Updated": "2025-11-04T19:18:32.6000664Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

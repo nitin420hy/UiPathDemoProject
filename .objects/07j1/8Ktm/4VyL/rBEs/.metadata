@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Your account is created!",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "rBEsHhqYHUSfIkdshAwBYA",
+  "Reference": "MxNu6IYXQEiXuntZkOyw8A/rBEsHhqYHUSfIkdshAwBYA",
+  "ParentRef": "MxNu6IYXQEiXuntZkOyw8A/4VyLIDMiwkSzir0s2EaXpw",
+  "Created": "2025-11-04T19:27:32.6561639Z",
+  "Updated": "2025-11-04T19:29:13.9015651Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

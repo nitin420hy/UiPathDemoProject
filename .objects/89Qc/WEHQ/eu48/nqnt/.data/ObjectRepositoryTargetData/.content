@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="filWaGAN_02xW166O7KBHA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="9c85972b-7851-483f-96a8-1bc4dd76ddd8" CvTextArea="136, 305, 265, 22" CvTextArgument="Verification code sent!" CvType="Text" DesignTimeRectangle="140, 299, 262, 33" DesignTimeScaleFactor="1.25" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='Verification code sent!' role='text' /&gt;" Guid="6865da9f-e6e0-406c-a913-4abefe2dbf82" ScopeSelectorArgument="&lt;wnd app='runsatara.exe' cls='HwndWrapper*' title='RunSatara - Verify OTP' /&gt;" SearchSteps="Selector, CV" Version="V6">
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="e9dda0737229b276309fa07a5d8eefbf.png" xmlns="">0Ig9xhJ6cFk-htwf7sX629w</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

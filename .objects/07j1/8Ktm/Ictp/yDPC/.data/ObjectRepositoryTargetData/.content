@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="M6PaL655dEiAyuyjfntiMw" Reference="MxNu6IYXQEiXuntZkOyw8A/yDPCraaho0i8uglnCvQDzQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dev1.register.runsatara.com/landing" CVScreenId="53e36688-4066-448a-b049-8f0b5d0582b2" CvElementArea="42, 877, 1842, 59" CvTextArea="921, 897, 94, 17" CvTextArgument="Get Started" CvType="Button" DesignTimeRectangle="49, 879, 1840, 55" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='2' tag='BUTTON' type='' class='Landing_buttonPrimary__kMjsh' aaname='Get Started' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Get Started' /&gt;" Guid="a9143535-526c-43c9-bb10-fa7551f7016f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SHHM' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="53e36688-4066-448a-b049-8f0b5d0582b2" CvElementArea="42, 877, 1842, 59" CvTextArea="921, 897, 94, 17" CvTextArgument="Get Started" CvType="Button" DesignTimeRectangle="924, 895, 90, 23" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='SPAN' type='' class='' aaname='Get Started' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Get Started' /&gt;" Guid="0dc7ca85-25e5-4bfd-89d1-5e0e28b6c3b6" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Verification code sent!",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "nqntBM4u8UGDa9Ux4yWSNw",
+  "Reference": "MxNu6IYXQEiXuntZkOyw8A/nqntBM4u8UGDa9Ux4yWSNw",
+  "ParentRef": "MxNu6IYXQEiXuntZkOyw8A/eu48NxYr3k-PLb2nyiMshw",
+  "Created": "2025-11-14T13:22:49.3069089Z",
+  "Updated": "2025-11-14T13:22:49.3069089Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

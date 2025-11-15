@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="QSKN2k1PikOC090n6ogIHw" Reference="MxNu6IYXQEiXuntZkOyw8A/nRxBUtijekyThdR9IGbY0Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="679, 135, 563, 750" ContentHash="tgh7RXUS3kuLSqP15iP7jA" FilePath="C:\Users\suman\Downloads\RunSatara-Desktop app\RunSatara-Desktop app\net10.0-windows\runsatara.exe" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAK0SURBVFhH7dhbTxNBFMDxPtntZXv/ksqlaitrK9AiIl7QWk36AfoRjI8KvVEtUqogIpTis8SE974cM2dntrM7k1m7JlqTneQfAZPTX87hRQMB//nPf+pXXMqXDCN/VTDyMGsRW8D5w39Rp9OR/kkWNxNAVQgcj8czmQ/806TAer0OtVrNinzP//1m9ydkXn2HzMsLLF29gPSLEZaqnEPq+ZB2BqlnZ5DcOoXU1ikkn36DjdaPqT5LCnQLQdURZKojSFfOIV1hoCGCMASZqOQT0gkkH59A4tFXYZ4qb0BE0U0haIggC8WBGArbPIbEw2Nhniop0G3tFuy3UV8gTto4gviDo6k+Swp0yzzdBJVAFAdiUVSCwuLrhxC7/1mYp8obkNtUElGTTZETsk2RYhSFrX3CnPNUSYFua7dtip3OQh1am7JQ5QGmk0qDqT5LCnRLQK2TKMiJKg0gVjoAffUA9JU+6Kt9YZ4qT0D2+2Sh6OkYTGcgrI+w6PI+6Mv7EL33UZinSgp0W7sNRTcVKw1sIEStmCBSpLgH0eIeRAo9AaFKCnSLnY6AzPMxkLkpHoUVehC524OI8QHCxnthnipPQH5LOrelaJHkRPUQFV4idSF8pyvMUyUFup2Y35J1voJ9UxEHKpzfxUK5XQGhSgp0i2zKeTp2PkQREEWFENWB0G1SG0K32sI8VZ6AiGIw3JIdFc4xVNtKu9kyy7aEeaqkQLcTm6ejqDy3KW5LJB6lZZugLTYguLAjIFRJgW5Nfp/sp9MsVJOCJihsfhuCc9vCPFWegFIUAWWbEFxsSFHXbrwzu/5WmKfKG5BH0S1ZqPkdBGEcis85T5Un4NqbEW4quNAAzYmak6NY5ddDYZ4qT8C/2f8BNIzc1eWl/V9bsxAxMWCZfDFrkcURm/M/u/znP/853i9gJfOfVIkqhAAAAABJRU5ErkJggg==" Reference="MxNu6IYXQEiXuntZkOyw8A/nRxBUtijekyThdR9IGbY0Q" Selector="&lt;wnd app='runsatara.exe' cls='HwndWrapper*' title='RunSatara - Sign In' /&gt;" Version="V2">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <TargetApp.WorkingDirectory>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.WorkingDirectory>
+      <imageRef attrName="InformativeScreenshot" originalValue="4a85d4bb5092cc11b3342baba05eda8b.png" xmlns="">0sopdwfoBvkyOiM_E5J_mnA</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

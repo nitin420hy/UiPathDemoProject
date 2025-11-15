@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Login Using Email Address  Button",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "KLqCcKtCKESSdtsEr-4laQ",
+  "Reference": "MxNu6IYXQEiXuntZkOyw8A/KLqCcKtCKESSdtsEr-4laQ",
+  "ParentRef": "MxNu6IYXQEiXuntZkOyw8A/-p9vJ5thF0OeRhP5jVSEcQ",
+  "Created": "2025-11-04T17:17:04.6322516Z",
+  "Updated": "2025-11-04T17:17:04.6322516Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

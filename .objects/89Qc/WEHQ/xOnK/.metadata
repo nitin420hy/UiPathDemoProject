@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Confirm Logout",
+  "Type": "Screen",
+  "Id": "xOnK75IUI0mbyGExnItyTA",
+  "Reference": "MxNu6IYXQEiXuntZkOyw8A/xOnK75IUI0mbyGExnItyTA",
+  "ParentRef": "MxNu6IYXQEiXuntZkOyw8A/WEHQ1Bd1VUGGVd0O0Zs-ww",
+  "Created": "2025-11-14T16:34:13.4730948Z",
+  "Updated": "2025-11-14T16:34:13.4730948Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Name": "For Mobile Login | Verify OTP Screen",
+  "Type": "Screen",
+  "Id": "eu48NxYr3k-PLb2nyiMshw",
+  "Reference": "MxNu6IYXQEiXuntZkOyw8A/eu48NxYr3k-PLb2nyiMshw",
+  "ParentRef": "MxNu6IYXQEiXuntZkOyw8A/WEHQ1Bd1VUGGVd0O0Zs-ww",
+  "Created": "2025-11-14T12:41:42.195172Z",
+  "Updated": "2025-11-14T13:01:40.7773627Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

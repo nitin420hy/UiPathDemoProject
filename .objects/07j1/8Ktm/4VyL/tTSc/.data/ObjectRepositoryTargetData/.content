@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tUME6LxZ7kqJ2i3nN3yFgg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dev1.register.runsatara.com/success" CVScreenId="cd842e06-14ff-4cee-81c4-75dc03ad79ee" CvElementArea="24, 549, 1884, 71" CvType="InputBox" DesignTimeRectangle="901, 575, 136, 20" DesignTimeScaleFactor="1.25" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='RegistrationSuccess_input__IjGA1' tag='B' /&gt;" Guid="45760df9-c148-4b88-b3fe-3fc8466916c0" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SHHM' /&gt;" SearchSteps="Selector, CV" Version="V6">
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="6ef39f733ba3485717ea5f2baffafb4c.png" xmlns="">0m2e68zaD10-uiKhPMRJNDw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

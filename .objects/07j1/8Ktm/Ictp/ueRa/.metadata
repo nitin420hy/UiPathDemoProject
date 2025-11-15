@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Female",
+  "Type": "Element",
+  "TaxonomyType": "RadioButton",
+  "Id": "ueRaOnj2K0OifLqvXbUC2A",
+  "Reference": "MxNu6IYXQEiXuntZkOyw8A/ueRaOnj2K0OifLqvXbUC2A",
+  "ParentRef": "MxNu6IYXQEiXuntZkOyw8A/IctpAhMMH0y7_m1Akobm3Q",
+  "Created": "2025-11-04T17:59:23.534178Z",
+  "Updated": "2025-11-04T17:59:23.534178Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

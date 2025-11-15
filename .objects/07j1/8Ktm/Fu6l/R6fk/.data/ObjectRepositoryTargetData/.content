@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2XBDjjW6U0uX9kkEiwvm8g" Reference="MxNu6IYXQEiXuntZkOyw8A/R6fkIDsmEU6pA6MF78Qxnw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dev1.register.runsatara.com/landing" CVScreenId="0c3f5bdb-e9e8-45b5-87db-9ab5ae0ca176" DesignTimeRectangle="49, 879, 1840, 55" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='2' matching:id='fuzzy' fuzzylevel:id='0.0' tag='BUTTON' type='' class='Landing_buttonPrimary__kMjsh' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='Get Started' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Get Started' /&gt;" Guid="a4d104e8-9c1d-4cfb-8488-a1c6218bfd6a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SHHM' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0c3f5bdb-e9e8-45b5-87db-9ab5ae0ca176" CvTextArea="892, 972, 152, 21" CvTextArgument="Skip to Homepage" CvType="Text" DesignTimeRectangle="895, 970, 148, 23" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='1' tag='SPAN' type='' class='' aaname='Skip to Homepage' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Skip to Homepage' /&gt;" Guid="1aa63991-86cd-43d3-a210-455f55e0da48" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="82866971e4cb57f09c52297682e6784a.png" xmlns="">0YD0MdTx06E2V-Jh5QMoGWg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

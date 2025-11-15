@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="xviW3jkIXk-RqmX6wd1DwA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dev1.register.runsatara.com/login" CVScreenId="05a57ebd-5b83-486e-a659-580330f6e1ff" CvElementArea="21, 897, 1848, 54" CvTextArea="835, 915, 224, 22" CvTextArgument="Login Using Email Address" CvType="Button" DesignTimeRectangle="29, 899, 1840, 50" DesignTimeScaleFactor="1.25" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='4' tag='BUTTON' type='' class='MobileOTPAuth_label__MwAxR' aaname='Login Using Email Address' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Login Using Email Address' /&gt;" Guid="8f52d64e-03a1-4087-b5e5-63c09ecb247b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SHHM' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="05a57ebd-5b83-486e-a659-580330f6e1ff" CvTextArea="870, 979, 155, 16" CvTextArgument="Need help signing in?" CvType="Text" DesignTimeRectangle="872, 977, 154, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='5' tag='SPAN' type='' class='' aaname='Need help signing in?' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Need help signing in?' /&gt;" Guid="c06593ae-70aa-4664-b68f-b26b6d657a37" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="b834718c04d6dcf0197d873a3a15d4af.png" xmlns="">0U3tAFel5yUGapaxCVnxhZg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

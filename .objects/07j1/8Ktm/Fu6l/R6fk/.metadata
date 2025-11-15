@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Get Started Button",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "R6fkIDsmEU6pA6MF78Qxnw",
+  "Reference": "MxNu6IYXQEiXuntZkOyw8A/R6fkIDsmEU6pA6MF78Qxnw",
+  "ParentRef": "MxNu6IYXQEiXuntZkOyw8A/Fu6lU9rqZ0iS2NPQGpwgEg",
+  "Created": "2025-11-04T17:12:50.2799474Z",
+  "Updated": "2025-11-04T17:17:30.0053857Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

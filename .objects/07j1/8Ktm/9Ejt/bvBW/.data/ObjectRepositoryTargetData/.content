@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="W9hACvVeHUmbUal0PfuOhg" Reference="MxNu6IYXQEiXuntZkOyw8A/bvBWNCAL80qBmtxN4uqf_Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dev1.register.runsatara.com/register2" CVScreenId="b99f18ed-b943-4779-a072-2bc7c5fc2215" CvTextArea="917, 596, 82, 18" CvTextArgument="XXXXXX" CvType="Text" DesignTimeRectangle="69, 579, 1800, 55" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl type='' class='' parentid='root' tag='DIV' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="3670d49b-3981-4606-b48c-b224aaab051d" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SHHM' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b99f18ed-b943-4779-a072-2bc7c5fc2215" CvTextArea="924, 549, 88, 17" CvTextArgument="Enter OTP" CvType="Text" DesignTimeRectangle="69, 545, 1800, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='STRONG' class='' aaname='Enter OTP' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Enter OTP' /&gt;" Guid="5bff991e-b7de-4f2c-b1e8-a9f0b196e15f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9169c28ead12e8aaa34f48a3fdc80946.png" xmlns="">0prlFoBIGoEq5DFLKfJx7hg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

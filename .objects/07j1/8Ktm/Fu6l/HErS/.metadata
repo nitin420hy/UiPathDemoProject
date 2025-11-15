@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Skip to Homepage",
+  "Type": "Element",
+  "TaxonomyType": "Link",
+  "Id": "HErSNoT7d0WQgOZmPiizsg",
+  "Reference": "MxNu6IYXQEiXuntZkOyw8A/HErSNoT7d0WQgOZmPiizsg",
+  "ParentRef": "MxNu6IYXQEiXuntZkOyw8A/Fu6lU9rqZ0iS2NPQGpwgEg",
+  "Created": "2025-11-04T17:12:50.3640462Z",
+  "Updated": "2025-11-04T17:18:07.8610746Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

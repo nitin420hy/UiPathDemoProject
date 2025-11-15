@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HvwwJAlFvUKSkDjbc3M3kg" Reference="MxNu6IYXQEiXuntZkOyw8A/qaXTbDkMdkGhs0TMX59r7g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="22fbec82-5299-48e9-b7ed-8784bcacf1ab" CvElementArea="856, 60, 111, 66" CvTextArea="881, 85, 60, 21" CvTextArgument="Logout" CvType="Button" DesignTimeRectangle="884, 82, 57, 23" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='Logout' role='push button' /&gt;&lt;ctrl name='Logout' role='text' /&gt;" Guid="244f9649-c1bf-4a79-8712-6d7ad26b7cf0" ScopeSelectorArgument="&lt;wnd app='runsatara.exe' cls='HwndWrapper*' title='UserListWindow' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="112fb6765ff94f03e80b7f64ab1f670d.png" xmlns="">07jOW8h6axE6jM8Hoz8bd_g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

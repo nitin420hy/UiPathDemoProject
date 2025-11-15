@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="SSY5mLJomk2Kh88XWfTqFg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="4655fb1e-e632-4d22-9773-4ecf355a7dec" CvElementArea="102, 157, 102, 34" CvTextArea="140, 167, 21, 12" CvTextArgument="Yes" CvType="Button" DesignTimeRectangle="103, 159, 100, 33" DesignTimeScaleFactor="1.25" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlid='6' title='&amp;amp;Yes' /&gt;" Guid="53aa2b29-8dd9-4ae0-93a8-0f2c86480127" ScopeSelectorArgument="&lt;wnd app='runsatara.exe' cls='#32770' title='Confirm Logout' /&gt;" SearchSteps="Selector, CV" Version="V6">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="4655fb1e-e632-4d22-9773-4ecf355a7dec" CvElementArea="212, 157, 101, 34" CvTextArea="253, 167, 18, 12" CvTextArgument="No" CvType="Button" DesignTimeRectangle="213, 159, 100, 33" ElementType="Button" FuzzySelectorArgument="&lt;wnd ctrlid='7' title='&amp;amp;No' matching:ctrlid='fuzzy' fuzzylevel:ctrlid='0.0' matching:title='fuzzy' fuzzylevel:title='0.0' check:text='&amp;amp;No' /&gt;" Guid="4d0ea021-880d-41f3-a785-6395f7d67e27" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="81f31c5209168b59ab92828ab030e36a.png" xmlns="">08ti_lZsf-UOq7amz4ee5Ww</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

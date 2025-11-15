@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-BDuonTVWk6pojsea43aiw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="8f4a40f8-ad55-4531-8851-061041d8f409" CvElementArea="44, 423, 452, 60" CvTextArea="220, 443, 99, 25" CvTextArgument="Verify OTP" CvType="Button" DesignTimeRectangle="47, 426, 449, 57" DesignTimeScaleFactor="1.25" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;ctrl name='Verify OTP' role='push button' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='Verify OTP' /&gt;" Guid="983fe966-590d-4983-9e6d-ea4a7ceac1be" ScopeSelectorArgument="&lt;wnd app='runsatara.exe' cls='HwndWrapper*' title='RunSatara - Verify OTP' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8f4a40f8-ad55-4531-8851-061041d8f409" CvElementArea="44, 423, 452, 60" CvTextArea="220, 443, 99, 25" CvTextArgument="Verify OTP" CvType="Button" DesignTimeRectangle="224, 441, 94, 27" ElementType="Text" FuzzySelectorArgument="&lt;ctrl name='Verify OTP' role='push button' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='Verify OTP' role='text' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='Verify OTP' /&gt;" Guid="b9de5ad2-02af-43ad-b2f8-7261bd8ca9f1" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="7273e5a67aba5b13ff4a1075d7d79a17.png" xmlns="">0loUbKUkbeU6skzQf_0wJVg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

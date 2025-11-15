@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Resend OTP",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Id": "KbjG4bcskUOr_97WhLJ2HQ",
+  "Reference": "MxNu6IYXQEiXuntZkOyw8A/KbjG4bcskUOr_97WhLJ2HQ",
+  "ParentRef": "MxNu6IYXQEiXuntZkOyw8A/Ea34B0xO30uKe4704epx_Q",
+  "Created": "2025-11-04T17:32:45.0900713Z",
+  "Updated": "2025-11-04T19:27:32.3327155Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

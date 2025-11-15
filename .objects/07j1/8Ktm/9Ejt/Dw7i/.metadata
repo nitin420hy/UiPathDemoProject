@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Resend OTP",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "Dw7i4APZf0mvEmSEcmyYbg",
+  "Reference": "MxNu6IYXQEiXuntZkOyw8A/Dw7i4APZf0mvEmSEcmyYbg",
+  "ParentRef": "MxNu6IYXQEiXuntZkOyw8A/9EjtAma9Ok6H0dAypysL5Q",
+  "Created": "2025-11-04T19:07:15.9123795Z",
+  "Updated": "2025-11-04T19:07:15.9123795Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

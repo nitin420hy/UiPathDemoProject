@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Authentication Screen",
+  "Type": "Screen",
+  "Id": "nRxBUtijekyThdR9IGbY0Q",
+  "Reference": "MxNu6IYXQEiXuntZkOyw8A/nRxBUtijekyThdR9IGbY0Q",
+  "ParentRef": "MxNu6IYXQEiXuntZkOyw8A/WEHQ1Bd1VUGGVd0O0Zs-ww",
+  "Created": "2025-11-14T12:36:01.7356322Z",
+  "Updated": "2025-11-14T12:37:03.0525631Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

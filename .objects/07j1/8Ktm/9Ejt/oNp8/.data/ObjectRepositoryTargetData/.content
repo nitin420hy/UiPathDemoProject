@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="yKOVbaEqukmUuEnseihTCA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dev1.register.runsatara.com/register2" CVScreenId="7024aca8-77e6-43a3-9968-ccc45b16f429" CvElementArea="24, 872, 1883, 64" CvTextArea="866, 895, 169, 22" CvTextArgument="Verify ID &amp; Address" CvType="Button" DesignTimeRectangle="29, 874, 1880, 60" DesignTimeScaleFactor="1.25" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl aaname='Verify ID &amp;amp; Address' tag='BUTTON' type='' class='MobileUserRegistrationDemographicPage_label__t5R4t' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Verify ID &amp;amp; Address' /&gt;" Guid="63877b82-e66c-4930-8a34-d4f031fa166f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SHHM' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7024aca8-77e6-43a3-9968-ccc45b16f429" CvElementArea="24, 872, 1883, 64" CvTextArea="866, 895, 169, 22" CvTextArgument="Verify ID &amp; Address" CvType="Button" DesignTimeRectangle="868, 889, 166, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Verify ID &amp;amp; Address' tag='SPAN' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Verify ID &amp;amp; Address' /&gt;" Guid="93b59bcb-9842-4601-8194-f33828bc8313" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="c4ad7ad06c9ef26fde1220e663752bed.png" xmlns="">0GuqHO9QCsU26MbzJm1Az8w</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

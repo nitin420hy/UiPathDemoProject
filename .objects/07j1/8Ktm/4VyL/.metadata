@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Success Screen",
+  "Type": "Screen",
+  "Id": "4VyLIDMiwkSzir0s2EaXpw",
+  "Reference": "MxNu6IYXQEiXuntZkOyw8A/4VyLIDMiwkSzir0s2EaXpw",
+  "ParentRef": "MxNu6IYXQEiXuntZkOyw8A/8KtmpoF52Eyamaq7SL8mVA",
+  "Created": "2025-11-04T19:27:32.3783775Z",
+  "Updated": "2025-11-04T19:27:32.3783775Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
